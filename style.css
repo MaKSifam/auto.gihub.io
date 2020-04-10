@@ -1,0 +1,35 @@
+.header {
+	
+	border-with: 0.14px;
+	border-color: #ccc9c9;
+	border-style: solid;
+	background-color: #dfdfdf;
+	height: 48px;
+	text-align: right;
+	padding-top: 20px;
+}
+
+.header a {
+	color: #383838;
+	font-size: 20px;
+	font-weight: 100;
+	padding-right: 25px;
+}
+
+.footer {
+	background-color: #434445;
+	height: 80px;
+	padding-top: 60px;
+	color: #a4a4a4;
+	font-size: 20px;
+	font-weight: 100;
+	text-align: center;
+}
+
+.img {
+	width: 10px;
+}
+
+
+
+
